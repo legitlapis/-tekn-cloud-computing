@@ -1,1 +1,2 @@
-# -tekn-cloud-computing
+#Minggu-01
+SCM: Git dan GitHub
